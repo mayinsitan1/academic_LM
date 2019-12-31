@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Liang Ma
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral Research Associate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Princeton University
+  url: "https://www.princeton.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:liangm@princeton.edu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
